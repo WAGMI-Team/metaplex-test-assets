@@ -1,24 +1,24 @@
 {
-    "name": "43175/000P-B190",
-    "description": "Patrimony Perpetual Calendar Ultra-Thin - Collection Excellence Platine, 41 mm , Platinum 950",
-    "symbol": "",
-    "image": "4.png",
-    "collection": {
-      "name": "Vacheron Constantin on Solana Test #1",
-      "family": "WAGMI Team Solana Tests"
-    },
-    "properties": {
-      "files": [
-        {
-          "uri": "4.png",
-          "type": "image/png"
-        }
-      ],
-      "creators": [
-        {
-          "address": "INSERT_YOUR_WALLET_ADDRESS_HERE",
-          "share": 100
-        }
-      ]
-    }
+  "name": "43175/000P-B190",
+  "description": "Patrimony Perpetual Calendar Ultra-Thin - Collection Excellence Platine, 41 mm , Platinum 950",
+  "symbol": "",
+  "image": "4.png",
+  "collection": {
+    "name": "Vacheron Constantin on Solana Test #1",
+    "family": "WAGMI Team Solana Tests"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "4.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "INSERT_YOUR_WALLET_ADDRESS_HERE",
+        "share": 100
+      }
+    ]
   }
+}
