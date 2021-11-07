@@ -1,0 +1,24 @@
+{
+    "name": "4000U/000G-B112",
+    "description": "Patrimony Retrograde Day-Date, 42.5 mm, 18K white gold",
+    "symbol": "",
+    "image": "8.png",
+    "collection": {
+      "name": "Vacheron Constantin on Solana Test #1",
+      "family": "WAGMI Team Solana Tests"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "8.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "INSERT_YOUR_WALLET_ADDRESS_HERE",
+          "share": 100
+        }
+      ]
+    }
+  }
